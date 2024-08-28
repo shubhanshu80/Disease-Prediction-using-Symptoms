@@ -7,3 +7,5 @@ The system also calculates the accuracy of the predictions, providing insights i
 The user interface of the system is implemented using the Tkinter library in Python, providing a simple and intuitive way for users to input their symptoms and receive the predicted disease. 
 The system containing information about the symptoms, predicted disease, and the accuracy of the prediction. 
 Overall, the "Disease Prediction using Machine Learning" project serves as a valuable tool for early disease detection and can potentially improve healthcare outcomes by enabling timely intervention and treatment.
+
+![pic project](https://github.com/user-attachments/assets/1beab0a6-692b-4f67-9449-5bf620a8da39)
